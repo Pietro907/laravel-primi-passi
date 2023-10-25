@@ -15,7 +15,7 @@
     </head>
     <body class="antialiased">
         
-    <header>
+    <header class="w-75 mx-auto">
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">Navbar</a>
@@ -56,7 +56,7 @@
 
 
 
-    <h1>{{$title}}</h1>
+    <h1 class="text-center my-5">{{$title}}</h1>
 
 
 

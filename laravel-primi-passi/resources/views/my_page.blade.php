@@ -17,8 +17,13 @@
 <body class="antialiased">
 
    
-    <h1>{{$title}}</h1>
+    <h1 class="text-center my-5">{{$title}}</h1>
 
+    <p class="w-75 mx-auto">Mi Presento mi chiamo <b>Pietro Paolo Puri</b> ho Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis id autem perferendis quaerat nesciunt dolore quos laboriosam omnis amet, illum accusamus hic iusto mollitia non tempore, labore repellendus nisi soluta, quas officiis voluptas! Explicabo tempora qui deserunt repudiandae unde culpa non, error dignissimos doloribus eum laudantium aut modi commodi pariatur?</p>
+    <p class="w-75 mx-auto">>Lorem ipsum dolor sit amet.</p>
+    <p class="w-75 mx-auto">>Lorem ipsum dolor sit amet.</p>
+    <p class="w-75 mx-auto">>Lorem ipsum dolor sit amet.</p>
+    
 </body>
 
 </html>

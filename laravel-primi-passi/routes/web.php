@@ -19,6 +19,6 @@ Route::get('/', function () {
 });
 
 Route::get('/my_page', function () {
-    $title = 'My PAGE';
+    $title = 'Welcome to My Page';
     return view('my_page', compact('title'));
 });
