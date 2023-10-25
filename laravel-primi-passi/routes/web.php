@@ -17,3 +17,8 @@ Route::get('/', function () {
     $title = 'Hello World';
     return view('home', compact('title'));
 });
+
+Route::get('/my_page', function () {
+    $title = 'My PAGE';
+    return view('my_page', compact('title'));
+});
