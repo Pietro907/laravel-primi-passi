@@ -21,6 +21,8 @@
         
     </head>
     <body class="antialiased">
-        
+        <header>
+            @include('./partials/header')
+        </header>
     </body>
 </html>
